@@ -78,11 +78,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThisukaMW&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisukaMW&layout=compact&hide_border=true" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com/?user=ThisukaMW&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
