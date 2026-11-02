@@ -3,10 +3,15 @@
 <h3 align="center">Full-Stack Developer · Backend & Systems</h3>
 
 <p align="center">
+  <a href="https://thisuka.vercel.app"><img src="https://thisuka.vercel.app/opengraph-image" alt="Thisuka Warsavithana · Portfolio" width="720"/></a>
+</p>
+
+<p align="center">
   IT undergraduate at the <b>University of Moratuwa</b>, building end-to-end systems — route optimization, real-time platforms, RAG pipelines and secure healthcare apps.
 </p>
 
 <p align="center">
+  <a href="https://thisuka.vercel.app"><img src="https://img.shields.io/badge/Portfolio-thisuka.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/thisuka-warsavithana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:thisuka112@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Open_to-SE_Internships-2ea44f?style=for-the-badge" alt="Open to SE internships"/>
@@ -19,7 +24,8 @@
 - 🎓 **B.Sc (Hons) in Information Technology**, University of Moratuwa (2024 – 2028)
 - ⚙️ Focused on **backend systems and full-stack development** with TypeScript, Python, Node.js, Java and Spring Boot
 - 🤖 Building with **ML, LLMs and RAG** — scikit-learn, XGBoost, LangChain, FAISS, Gemini, MCP
-- 🏆 **Champions at CodeArena'26** and finalist at TensorForge 2.0, GenZipher 1.0, DEVthon and the APIIT Hackathon
+- 🏆 **Champions at CodeArena'26** and finalist at TensorForge 2.0, GenZipher 1.0, DEV{thon} 3.0 and the APIIT Hackathon
+- 📜 Certified: **Claude Academy — Claude 101 & Claude Code 101** (Anthropic, 2026)
 - 🌐 Former Web & Technology Pillar Member at **MoraSpirit**; former Trainee Software Engineer at **ICET**
 - 🏀 Secretary of Mora Basketball and Sri Lanka University Games champion (2025)
 - 🔍 **Looking for a software engineering internship**
@@ -59,6 +65,14 @@
 - Driver app with live GPS over JWT-authenticated Socket.IO connections
 - Led repo, branching strategy and deployment for a five-person team
 
+### 🛡️ [Rakshaka AI](https://github.com/geemalfernando/Rakshaka_AI) — Multilingual Scam Message Detector with Drift Monitoring
+**Finalist — TensorForge 2.0** (KDU × Ascentic) · Built in a 6-hour buildathon
+
+`Python` `scikit-learn` `FastAPI` `Streamlit` `SQLite` `Docker` `GitHub Actions`
+- Flags scam SMS/WhatsApp messages in Sinhala, Tamil, Singlish, Tanglish and English using character + word n-gram TF-IDF
+- Drift monitor detects new scam tactics within one 50-message window and routes uncertain messages to human review
+- Human-in-the-loop retraining behind a regression gate, with model versioning and one-click rollback
+
 ### 📄 [RAG Document Q&A](https://github.com/ThisukaMW/rag-document-qa) — Retrieval-Augmented Document Assistant
 `Python` `LangChain` `FAISS` `BM25` `Sentence-Transformers` `Groq` `MCP` `Streamlit`
 - Hybrid dense + sparse retrieval using Reciprocal Rank Fusion, with page-level citations
@@ -87,4 +101,4 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — I'm always happy to connect about internships, projects or collaborations.</i></p>
+<p align="center"><i>Thanks for stopping by — see more at <a href="https://thisuka.vercel.app">thisuka.vercel.app</a>. I'm always happy to connect about internships, projects or collaborations.</i></p>
